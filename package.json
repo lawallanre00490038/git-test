@@ -1,0 +1,24 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "This is a test work",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lawallanre00490038/git-test.git"
+  },
+  "author": "Lawal Olanrewaju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lawallanre00490038/git-test/issues"
+  },
+  "homepage": "https://github.com/lawallanre00490038/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
